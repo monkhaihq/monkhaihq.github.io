@@ -4,4 +4,8 @@ Allow: /
 User-Agent: GPTBot
 Disallow: /
 
+<<<<<<< HEAD
 Sitemap: http://localhost:3000/sitemap.xml
+=======
+Sitemap: https://monkhaihq.github.io/sitemap.xml
+>>>>>>> 4ecff6f7f207052298b5e91b88632aafacbeb9a5
