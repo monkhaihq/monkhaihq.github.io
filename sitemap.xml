@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<<<<<<< HEAD
 <loc>http://localhost:3000</loc>
-<lastmod>2026-05-12T21:46:02.843Z</lastmod>
-=======
-<loc>https://monkhaihq.github.io</loc>
-<lastmod>2026-05-12T21:42:15.119Z</lastmod>
->>>>>>> b63e8e22aff112420a8a61bf75305c935cb26983
+<lastmod>2026-05-12T21:50:13.475Z</lastmod>
 <changefreq>daily</changefreq>
 <priority>1</priority>
 </url>
