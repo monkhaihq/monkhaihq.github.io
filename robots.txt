@@ -4,4 +4,8 @@ Allow: /
 User-Agent: GPTBot
 Disallow: /
 
+<<<<<<< HEAD
 Sitemap: https://monkhaihq.github.io/sitemap.xml
+=======
+Sitemap: https://monkhai.keyhub.in/sitemap.xml
+>>>>>>> af9cfab (Manual Deploy: 2026-10-12 20:23:44)
